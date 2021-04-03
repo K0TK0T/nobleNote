@@ -1,0 +1,8 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta charset="UTF-8"/><meta name="uuid" content="616469c5-1ae2-49c2-b3dc-2f64dc55b7bb"/><meta name="last-change-date" content="2020-12-13T00:27:36.3650000+08:00"/><meta name="create-date" content="2020-12-13T00:27:36.3650000+08:00"/><meta name="qrichtext" content="1" /><title>插入模式</title><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'DejaVu Sans'; font-size:16pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;C-[&gt;/Esc  切换回普通模式</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;C-o&gt;  切换到插入-普通模式</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;C-r&gt;{register}  粘贴寄存器中的内容</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;C-r&gt;=  后面输入一串算式会直接把结果粘贴出来(算式寄存器)</p></body></html>

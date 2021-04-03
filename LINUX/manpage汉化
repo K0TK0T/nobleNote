@@ -1,0 +1,7 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta charset="UTF-8"/><meta name="uuid" content="49c408b1-4d3a-4b65-af78-6516a382e98e"/><meta name="last-change-date" content="2020-12-04T00:26:04.1400000+08:00"/><meta name="create-date" content="2020-12-04T00:26:04.1400000+08:00"/><meta name="qrichtext" content="1" /><title>man汉化</title><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'DejaVu Sans'; font-size:16pt; font-weight:400; font-style:normal;">
+<pre style=" margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Noto Sans CJK SC';">$ apt-get install manpages-zh</span></pre>
+<pre style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Noto Sans CJK SC';">$ vim /etc/manpath.config</span></pre>
+<pre style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Noto Sans CJK SC';">:1,$s#/usr/share/man#/usr/share/man/zh_CN#g</span></pre></body></html>

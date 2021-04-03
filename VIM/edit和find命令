@@ -1,0 +1,10 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta charset="UTF-8"/><meta name="uuid" content="ad102a7d-78fc-4992-8235-a491b01eff80"/><meta name="last-change-date" content="2020-12-22T07:55:47.3130000+08:00"/><meta name="create-date" content="2020-12-22T07:55:47.3130000+08:00"/><meta name="qrichtext" content="1" /><title>edit和find命令</title><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'DejaVu Sans'; font-size:16pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">:edit {file}  以绝对路径或者相对路径打开一个文件</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">在Ex命令行中，%代表这个文件的文件名，.代表当前的工作目录。</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">%:h代表去掉了文件名的当前文件相对于工作目录的路径。</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">:set path+={path}  设置路径，与命令行中的通配有些不同，详见:h file-searching</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">:find {filename}  在路径下寻找匹配文件</p></body></html>

@@ -1,0 +1,6 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="uuid" content="acf26a01-c1c0-47fa-a10b-272197660d0d"/><meta name="last-change-date" content="2021-03-14T22:32:42.4260000+08:00"/><meta name="create-date" content="2021-03-14T22:32:42.4260000+08:00"/><meta name="qrichtext" content="1" /><title>实际行与屏幕行</title><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'DejaVu Sans'; font-size:10pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:16pt;">如果启用了&quot;wrap&quot;设置，每个超出窗口宽度的问本行都会被回绕显示，这时就有实际行和屏幕行的区别。</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:16pt;">关于屏幕行的移动命令就是屏幕行移动命令前加g，比如gj，gk，g0，g$，这在可视编辑单行文字过多的情况下非常有用。</span></p></body></html>

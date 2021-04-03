@@ -1,0 +1,7 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="uuid" content="acd9495f-dd12-4cd2-9bba-42e04e26d934"/><meta name="last-change-date" content="2021-03-14T21:26:04.6930000+08:00"/><meta name="create-date" content="2021-03-14T21:26:04.6930000+08:00"/><meta name="qrichtext" content="1" /><title>解决双系统下时间偏差问题</title><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'DejaVu Sans'; font-size:10pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:16pt;">$ sudo apt install ntpdate</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:16pt;">$ sudo ntpdate cn.pool.ntp.org</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:16pt;">$ sudo hwclock --systohc</span></p></body></html>

@@ -1,0 +1,6 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta charset="UTF-8"/><meta name="uuid" content="a8d55d21-89c2-49e7-8183-f5094945ef04"/><meta name="last-change-date" content="2020-12-17T07:01:46.2650000+08:00"/><meta name="create-date" content="2020-12-17T07:01:46.2650000+08:00"/><meta name="qrichtext" content="1" /><title>插件管理</title><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'DejaVu Sans'; font-size:16pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600;">vim8自带插件管理</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">安装将插件直接移动到~/.vim/packs/xxx/start下即可（可以自己创建文件夹分类），卸载直接删除插件即可，或者移动到~/.vim/packs/xxx/opt将其禁用。</p></body></html>
